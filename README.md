@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pladix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pladix/pladix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @pladixoficial
+- 👀 I’m interested in Systems Programmer and Systems Developer of Reverse Engineering.
+- 🌱 I’m currently learning A new way to make money on the internet.
+- 💞️ I’m looking to collaborate on With the new betting platforms that have chances of being made robots for them.
+- 📫 How to reach me The step is to get in touch with me, because I'm not very well known, you can find me easily.
