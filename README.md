@@ -2,6 +2,14 @@
 
 ---
 
+> [!CAUTION]
+> ### 🚨 ALERTA DE SEGURANÇA / SECURITY ALERT
+> **PT-BR:** O username **PLADIXOFICIAL** NÃO está mais no Telegram. Pessoas maliciosas estão criando contas falsas para aplicar golpes. Não confie em nenhuma mensagem vinda de lá. Este GitHub é o único canal oficial restante.
+> 
+> **EN:** The username **PLADIXOFICIAL** is NO LONGER on Telegram. Malicious individuals are creating fake accounts to scam people. Do not trust any messages from there. This GitHub is the only remaining official channel.
+
+---
+
 ## 🇧🇷 Português (Brasil)
 
 **Obrigado por tudo.**
