@@ -2,16 +2,21 @@
 
 ---
 
-> [!WARNING]
-> ### 🛡️ CANAIS OFICIAIS E ALERTA DE SEGURANÇA
-> **PT-BR:** Devido ao grande número de golpes e perfis falsos lesando pessoas, decidi retomar um perfil oficial para centralizar comunicados e evitar fraudes. **Não confie em nenhum outro perfil.**
+> [!CAUTION]
+> ### 🚨 ALERTA DE SEGURANÇA / SECURITY ALERT
 > 
-> **EN:** Due to the high number of scams and fake profiles, I have decided to create an official profile again to centralize announcements and prevent fraud. **Do not trust any other profile.**
+> **PT-BR:** O usuário **@PLADIXOFICIAL** no Telegram não me pertence mais. Ele foi **ROUBADO** e está sendo utilizado por criminosos para aplicar diversos golpes e lesar vítimas. Se você era meu cliente ou seguidor, **BLOQUEIE E DENUNCIE**. Eu não tenho mais acesso a essa conta.
+>
+> **EN:** The username **@PLADIXOFICIAL** on Telegram no longer belongs to me. It was **STOLEN** and is being used by criminals to run scams. If you were a client or follower, **BLOCK AND REPORT**. I no longer have access to this account.
 
-### 🔗 Contatos Oficiais / Official Links:
+---
 
-* **Telegram (Perfil):** [@pladixisback](https://t.me/pladixisback) | `@pladixisback` (ID: 8731939318)
-* **Telegram (Canal):** [@pladixcomunica](https://t.me/pladixcomunica) | `@pladixcomunica`
+### 🛡️ Canais Oficiais de Comunicação (ÚNICOS):
+
+Para evitar fraudes, utilize apenas os canais abaixo para qualquer comunicado:
+
+* **Telegram (Perfil Novo):** [@pladixisback](https://t.me/pladixisback) | `@pladixisback` (ID: 8731939318)
+* **Telegram (Canal Oficial):** [@pladixcomunica](https://t.me/pladixcomunica) | `@pladixcomunica`
 * **Discord (User):** `pladixoficial`
 * **Discord (Servidor):** [https://discord.gg/gTyHNrgsyM](https://discord.gg/gTyHNrgsyM)
 
@@ -21,11 +26,9 @@
 
 **Obrigado por tudo.**
 
-Hoje, encerramos nossas atividades na internet. Olhando para trás, sentimos um imenso orgulho de tudo o que produzimos e de cada linha de código que compartilhamos com o mundo. Foi uma honra construir esta história ao lado de vocês e contribuir com projetos que, de alguma forma, impactaram o ecossistema digital.
+Hoje, encerramos nossas atividades na internet. Olhando para trás, sentimos um imenso orgulho de tudo o que produzimos. Foi uma honra construir esta história ao lado de vocês.
 
-**Nota Importante:** Infelizmente, pessoas maliciosas estão usando o nome **PLADIXOFICIAL** para aplicar golpes. Por este motivo, os links listados acima são os **únicos** meios de comunicação oficiais para garantir que ninguém seja enganado por perfis falsos.
-
-Agradecemos de coração a todos que nos acompanharam, colaboraram e fizeram parte desta jornada. O conhecimento permanece, mas o ciclo se fecha aqui.
+**Aviso aos Clientes:** Devido ao roubo do meu antigo @ e à onda de fraudes que isso gerou, decidi reestabelecer estes novos canais apenas para manter a transparência e evitar que mais pessoas sejam lesadas. O conhecimento permanece, mas o ciclo se fecha aqui.
 
 ---
 
@@ -33,11 +36,9 @@ Agradecemos de coração a todos que nos acompanharam, colaboraram e fizeram par
 
 **Thank you for everything.**
 
-Today, we are concluding our online activities. Looking back, we feel immense pride in everything we’ve produced and every line of code we’ve shared with the world. It has been an honor to build this story alongside you and to create things that were important to the world.
+Today, we are concluding our online activities. It has been an honor to build this story alongside you and to create things that were important to the world.
 
-**Important Note:** Unfortunately, malicious individuals are using the name **PLADIXOFICIAL** to run scams. For this reason, the links listed above are the **only** official communication channels to ensure no one is misled by fake profiles.
-
-We want to thank everyone who followed us, collaborated, and was part of this journey from the bottom of our hearts. The knowledge remains, but this chapter ends here.
+**Notice to Clients:** Due to the theft of my old username and the wave of scams it caused, I have established these new channels solely to maintain transparency and prevent more people from being defrauded. The knowledge remains, but this chapter ends here.
 
 ---
 
@@ -45,11 +46,9 @@ We want to thank everyone who followed us, collaborated, and was part of this jo
 
 **Gracias por todo.**
 
-Hoy, ponemos fin a nuestras actividades en internet. Mirando hacia atrás, sentimos un orgullo inmenso por todo lo que hemos producido y por cada línea de código que hemos compartido con el mundo. Ha sido un honor construir esta historia junto a ustedes y haber producido tantas cosas importantes.
+Hoy, ponemos fin a nuestras actividades en internet. Ha sido un honor construir esta historia junto a ustedes y haber producido tantas cosas importantes.
 
-**Nota importante:** Desafortunadamente, personas malintencionadas estão utilizando el nombre **PLADIXOFICIAL** para realizar estafas. Por este motivo, los enlaces anteriores son los **únicos** canales oficiales de comunicación para asegurar que nadie sea engañado por perfiles falsos.
-
-Agradecemos de todo corazón a todos los que nos acompañaron, colaboraron y formaron parte de esta trayectoria. El conocimiento permanece, pero el ciclo se cierra aquí.
+**Aviso a los Clientes:** Debido al robo de mi antiguo usuario y a la ola de fraudes que esto generó, he decidido establecer estos nuevos canales únicamente para mantener la transparencia y evitar que más personas sean perjudicadas. El conocimiento permanece, pero el ciclo se cierra aquí.
 
 ---
 
