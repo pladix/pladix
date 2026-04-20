@@ -18,7 +18,7 @@ Para evitar fraudes, utilize apenas os canais abaixo para qualquer comunicado:
 * **Telegram (Perfil Novo):** [@pladixisback](https://t.me/pladixisback) | `@pladixisback` (ID: 8731939318)
 * **Telegram (Canal Oficial):** [@pladixcomunica](https://t.me/pladixcomunica) | `@pladixcomunica`
 * **Discord (User):** `pladixoficial`
-* **Discord (Servidor):** [https://discord.gg/gTyHNrgsyM](https://discord.gg/gTyHNrgsyM)
+* **Discord (Servidor):** --------------------------------
 
 ---
 
