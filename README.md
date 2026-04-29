@@ -13,7 +13,8 @@ Para sua segurança, utilize apenas os links oficiais abaixo. **O usuário @plad
 * **Repositório 01:** [@repositoriodopladix](https://t.me/repositoriodopladix)
 * **Repositório 02 (Conteúdos Completos):** [@RepositoryPladix](https://t.me/RepositoryPladix)
 * **GitHub:** [github.com/pladix](https://github.com/pladix)
-* **Discord:** pladixoficial
+* **Discord:** (nao utilizo, cuidado com golpes!)
+* **WhatsApp** (nao utilizo, cuidado com golpes!)
 
 ---
 
